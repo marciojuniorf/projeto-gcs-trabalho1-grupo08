@@ -1,4 +1,5 @@
 ﻿Nome artefato: Agendas e Atas de Reunião - tarefa 10.txt
 Nome do(a) autor(a): Jober Guilherme Dias dos Santos Rebouças
-Data de criação: 04/04/2015
-Hora de criação: 16:44:00
+Data de criação: 06/04/2015
+Hora de criação: 20:39:00
+"Nova linha"
