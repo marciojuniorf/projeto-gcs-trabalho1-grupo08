@@ -1,4 +1,5 @@
 Nome artefato: Iniciacao-Tarefa-10.txt
 Nome do(a) autor(a) da alteração: Marcio Junio Rodrigues de Freitas
 Data da alteração: 06/04/2015
-Hora da alteração: 20:40:40
+Hora da alteração: 20:41:40
+**Nova Linha**
