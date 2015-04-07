@@ -1,4 +1,6 @@
 Nome artefato: Requisitos-Tarefa-10.txt
+** Nova Linha***
 Nome do(a) autor(a) da alteração: Marcio Junio Rodrigues de Freitas
-Data da alteração: 04/04/2015
-Hora da alteração: 16:44:35
+Data da alteração: 06/04/2015
+Hora da alteração: 21:28:50
+** Nova Linha 02 ***
